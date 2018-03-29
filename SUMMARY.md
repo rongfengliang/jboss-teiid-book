@@ -3,8 +3,6 @@
 * [介绍](README.md)
 * [teiid 安装](teiid-install.md)
   * [介绍](teiid-install/teiid-intro.md)
-  * [普通安装](teiid-install/pu-tong-an-88c5-md.md)
-  * [docker安装](teiid-install/dockeran-zhuang.md)
 * [jdbc 集成](jdbc-ji-cheng.md)
 * [spring-boot 集成](spring-boot-ji-cheng.md)
 * [常用数据库集成](chang-yong-shu-ju-ku-ji-cheng.md)
